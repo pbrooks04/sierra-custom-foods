@@ -19,3 +19,9 @@ Put each individual name and number on a new line
 #####"bug"
 If you add employees to 'SierraEmployeeList.txt' while the app has started, they will be listed in the Loaded Employees form but
 they won't be loaded into the program
+
+
+## Version 1.02
+#### What's new
+1. Product Code field
+2. Total cut amount displayed in output file
