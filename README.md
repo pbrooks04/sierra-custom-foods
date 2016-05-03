@@ -25,3 +25,11 @@ they won't be loaded into the program
 #### What's new
 1. Product Code field
 2. Total cut amount displayed in output file
+
+
+## Version 1.03
+### What's new 
+1. Clear button
+2. App does not close on Publish
+3. Back colour is a darker blue
+4. Help form colour is a lighter blue
