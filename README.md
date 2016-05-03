@@ -3,7 +3,7 @@
 You can download the application directly by clicking on 'SierraRecordTracker.exe' and then 'View Raw'
 
 ## Version 1.03
-### What's new 
+#### What's new 
 1. Clear button
 2. App does not close on Publish
 3. Back colour is a darker blue
