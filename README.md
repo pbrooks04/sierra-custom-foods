@@ -2,6 +2,19 @@
 
 You can download the application directly by clicking on 'SierraRecordTracker.exe' and then 'View Raw'
 
+## Version 1.03
+### What's new 
+1. Clear button
+2. App does not close on Publish
+3. Back colour is a darker blue
+4. Help form colour is a lighter blue
+
+
+## Version 1.02
+#### What's new
+1. Product Code field
+2. Total cut amount displayed in output file
+
 
 ## Version 1.01
 #### What's New
@@ -19,17 +32,3 @@ Put each individual name and number on a new line
 #####"bug"
 If you add employees to 'SierraEmployeeList.txt' while the app has started, they will be listed in the Loaded Employees form but
 they won't be loaded into the program
-
-
-## Version 1.02
-#### What's new
-1. Product Code field
-2. Total cut amount displayed in output file
-
-
-## Version 1.03
-### What's new 
-1. Clear button
-2. App does not close on Publish
-3. Back colour is a darker blue
-4. Help form colour is a lighter blue
