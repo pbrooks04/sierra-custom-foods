@@ -1,6 +1,13 @@
 # sierra-custom-foods
 
-You can download the application directly by clicking on 'SierraRecordTracker.exe' and then 'View Raw'
+You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
+
+## Version 1.04
+#### What's new
+
+#####Log tracking
+  Creates text files that store logs of cut amount adjustments
+   
 
 ## Version 1.03
 #### What's new 
