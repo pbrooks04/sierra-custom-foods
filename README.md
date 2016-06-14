@@ -2,12 +2,25 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.05
+#### What's new
+1. Output data is sent to Excel sheets instead of text files
+2. Custom save paths (See below)
+3. New Scrollable Interface
+4. Confirmation before Publishing and Clearing data
+5. File names contain date and exact time
+
+##### Custom Save Paths
+If you want the SRT to save data to another location, create a file "savepath.txt" in the same directory as the app.
+Add only a single line to the file with the desired file path, only the first line will be read.
+An example direct file path, C:\Path\That\App\Will\Save\To
+
+
 ## Version 1.04
 #### What's new
 
-#####Log tracking
-  Creates text files that store logs of cut amount adjustments
-   
+1. Log tracking
+2. Organized directory paths
 
 ## Version 1.03
 #### What's new 
