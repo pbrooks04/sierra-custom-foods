@@ -2,6 +2,11 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.07
+#### What's new
+ 1. Confirm on Exit and prompt to publish
+
+
 ## Version 1.06
 #### What's new
  1. Displays at most 13 employees
