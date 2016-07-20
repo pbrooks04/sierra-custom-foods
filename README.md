@@ -2,6 +2,11 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.08
+#### What's new
+1. Running total displayed for all cuts
+
+
 ## Version 1.07
 #### What's new
  1. Confirm on Exit and prompt to publish
