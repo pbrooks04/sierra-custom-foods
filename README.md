@@ -2,6 +2,12 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+### Version 1.10
+#### What's new
+1. Manual input fields for start and end times. 
+2. Input time formats are verified and published
+
+
 ## Version 1.09
 #### What's new
 1. Publish bug should be fixed now
