@@ -2,7 +2,15 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
-### Version 1.10
+## Version 1.11
+#### What's new
+1. Load up to 8 support worker types by writing each type into a text file named 'SupportWorkerList.txt' saved
+   in the \Archive\AppData directory. Separate each entry by a new line.
+2. Scroll down to enter values for each worker type either manually or with buttons.
+3. Support worker values are written to cut logs.
+
+
+## Version 1.10
 #### What's new
 1. Manual input fields for start and end times. 
 2. Input time formats are verified and published
