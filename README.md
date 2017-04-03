@@ -2,6 +2,11 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.12
+#### What's new
+1. Textbox to manually alter intervals.
+2. Password protected files.
+
 ## Version 1.11
 #### What's new
 1. Load up to 8 support worker types by writing each type into a text file named 'SupportWorkerList.txt' saved
