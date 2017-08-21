@@ -2,6 +2,11 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.13
+#### What's new
+1. More fields to support up to 30 workers
+2. Added apostrophe " ' " character in Excel Docs to allow for leading zeros in Employee Numbers
+
 ## Version 1.12
 #### What's new
 1. Textbox to manually alter intervals.
