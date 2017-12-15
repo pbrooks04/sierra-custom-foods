@@ -2,6 +2,10 @@
 
 You can download the application directly by clicking on 'SierraRecordTrackerV# - ##.exe' and then 'View Raw'
 
+## Version 1.14
+#### What's new
+1. Only cut files are password protected now
+
 ## Version 1.13
 #### What's new
 1. More fields to support up to 30 workers
